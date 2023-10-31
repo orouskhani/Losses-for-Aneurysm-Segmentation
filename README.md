@@ -4,9 +4,6 @@ Intracranial Aneurysm Segmentation with nnU-net: Investigating Hybrid Loss Funct
 Our work focuses on investigating the impact of different hybrid loss functions, incorporating both distribution-based and region-based losses, on the segmentation performance.
 
 
-![image](https://github.com/orouskhani/Vessel-Segmentation-TOF-MRA/blob/main/Model.jpg)
-
-
 ![image](https://github.com/orouskhani/Losses-for-Aneurysm-Segmentation/blob/main/3-%20Tables.jpg)
 
 
